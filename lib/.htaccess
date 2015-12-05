@@ -1,0 +1,2 @@
+# Deny outside access to this directory.
+deny from all
